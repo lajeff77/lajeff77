@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, videogames, music, and drawing.
 - 🌱 I’m currently learning angular, typescript, and kotlin.
 - 💞️ I’m looking to collaborate on code.
-- 📫 How to reach me: don't :^)
+- 📫 How to reach me lajeff77@gmail.com
 
 <!---
 lajeff77/lajeff77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
