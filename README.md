@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lajeff77
 - 👀 I’m interested in coding, videogames, rubiks cubes, music, and drawing.
-- 🌱 I’m currently learning angular, typescript, and kotlin.
+- 🌱 I’m currently learning react, redux, and typescript.
 - 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me lajeff77@gmail.com
 
