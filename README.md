@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lajeff77
 - 👀 I’m interested in coding, videogames, rubiks cubes, music, and drawing.
-- 🌱 I’m currently learning TypeScript, Ruby on Rails, and MySQL.
+- 🌱 I’m currently learning TypeScript, Ruby on Rails, and SQL.
 - 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me lajeff77@gmail.com
 
